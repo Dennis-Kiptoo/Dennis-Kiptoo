@@ -1,4 +1,9 @@
-### Hi there 👋
+I am Dennis Kiptoo,  a Mechanical Engineering graduate turned software enthusiast.
+Let's connect and chat about software, engineering, or anything under the tech sun! 🚀
+
+Happy coding!
+
+Dennis Kiptoo
 
 <!--
 **Dennis-Kiptoo/Dennis-Kiptoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
